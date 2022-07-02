@@ -1,6 +1,6 @@
 # Space Cream (página responsiva)
 
-![](https://raw.githubusercontent.com/dipimentel/explorer-stg3-space-cream/main/print-space-cream-responsivo.png)
+[![](https://raw.githubusercontent.com/dipimentel/explorer-stg3-space-cream/main/print-space-cream-responsivo.png)](https://dipimentel.github.io/explorer-stg3-space-cream/)
 
 ## Sobre o projeto
 Este projeto foi desenvolvido como desafio proposto no curso [**Explorer**](https://www.rocketseat.com.br/explorer), da **Rocketseat**, com o objetivo de colocar em prática os conceitos trabalhados em aula.
